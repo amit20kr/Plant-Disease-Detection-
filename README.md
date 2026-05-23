@@ -26,7 +26,6 @@ Using Post-Training INT8 Quantization via TensorFlow Lite, we compressed our 2.5
 ---
 
 ##  Model Performance Metrics
-* **Validation Accuracy (Under Domain Shift):** 67.0%
 * **Training Accuracy (Feature Convergence):** 88.8%
 * **Parameters:** 2.5 Million 
 
